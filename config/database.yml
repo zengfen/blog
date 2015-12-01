@@ -66,7 +66,7 @@ development:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: xjgreat3
+  database: zengfen1
   pool: 5
   username: xjgreat3
   password: xjgreat3
