@@ -2,7 +2,7 @@ source 'https://ruby.taobao.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '3.2.16'
+gem 'rails', '4.2.4'
 # Use mysql as the database for Active Record
 gem 'mysql2',"0.3.13"
 # Use SCSS for stylesheets
